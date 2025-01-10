@@ -23,7 +23,7 @@ pip install pandas numpy streamlit matplotlib seaborn
 
 ```
 
-Run the app and Analyse!!
+Run the app and Analyze!!
 
 ```bash
   streamlit run app.py
